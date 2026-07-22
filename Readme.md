@@ -1,4 +1,4 @@
-# VirtualUI React Components
+# Kuvox React Components
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/virtualui-react-components?style=for-the-badge&logo=npm&color=CB3837" alt="npm version" />

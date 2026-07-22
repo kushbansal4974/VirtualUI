@@ -1,15 +1,15 @@
 {
-  "name": "virtualui-react-components",
-  "version": "1.0.3",
+  "name": "kuvox",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
-  "homepage": "https://github.com/kushbansal4974/VirtualUI",
+  "homepage": "https://github.com/kushbansal4974/Kuvox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kushbansal4974/VirtualUI.git"
+    "url": "https://github.com/kushbansal4974/Kuvox.git"
   },
   "bugs": {
-    "url": "https://github.com/kushbansal4974/VirtualUI/issues"
+    "url": "https://github.com/kushbansal4974/Kuvox/issues"
   },
   "files": [
     "dist"
@@ -19,7 +19,7 @@
   },
   "author": "Kush",
   "license": "ISC",
-  "description": "Virtual UI React Component Library",
+  "description": "Kuvox UI React Component Library",
   "peerDependencies": {
     "react": ">=18"
   },
