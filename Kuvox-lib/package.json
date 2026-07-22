@@ -1,6 +1,6 @@
 {
   "name": "kuvox",
-  "version": "1.0.4",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "homepage": "https://github.com/kushbansal4974/Kuvox",
