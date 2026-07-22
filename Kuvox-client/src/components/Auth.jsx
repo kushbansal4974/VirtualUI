@@ -22,7 +22,7 @@ function Auth() {
               <TbX />
             </button>
             {/* left box */}
-            <div className="sm:w-[52%] bg-gradient-to-br from-[#03181c] to-[#041e24] p-6 sm:p-10 relative overflow-hidden">
+            <div className="sm:w-[52%] bg-linear-to-br from-[#03181c] to-[#041e24] p-6 sm:p-10 relative overflow-hidden">
               <div className="absolute -top-16 -right-16 w-64 h-64 rounded-full bg-[radial-gradient(circle, rgba(59,232,255,0.08)_0%, transparent_70%)] pointer-events-none" />
             </div>
 
