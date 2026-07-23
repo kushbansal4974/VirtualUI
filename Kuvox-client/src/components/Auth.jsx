@@ -28,6 +28,17 @@ function Auth({ onClose }) {
             {/* left box */}
             <div className="sm:w-[52%] bg-linear-to-br from-[#03181c] to-[#041e24] p-6 sm:p-10 relative overflow-hidden">
               <div className="absolute -top-16 -right-16 w-64 h-64 rounded-full bg-[radial-gradient(circle, rgba(59,232,255,0.08)_0%, transparent_70%)] pointer-events-none" />
+
+              <motion.div
+              initial={{ opacity: 0, x:-14}}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2 }}
+              className="flex items-center gap-3 mb-7 sm:mb-9">
+                <div className="w-9 h-9 rounded-xl bg-linear-to-br from-[#3be8ff] to-[#0ab5d4] flex items-center justify-center shadow-[0_0_18px_rgba(59,232,255,0.35)]">
+                  
+                </div>
+                <span></span>
+              </motion.div>
             </div>
 
             {/* right box */}

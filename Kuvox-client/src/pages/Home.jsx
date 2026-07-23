@@ -1,15 +1,16 @@
-import { useState } from "react"
-import Auth from "../components/Auth"
-
+import { useState } from "react";
+import Auth from "../components/Auth";
 
 function Home() {
-  const [showAuth, setShowAuth] = useState(false)
+  const [showAuth, setShowAuth] = useState(false);
   return (
     <div className="">
-      <button onClick={()=> setShowAuth(true)}>Open</button>
-      {showAuth && <Auth onClose={()=> setShowAuth(false)}/>}
+      <button className="px-4 py-2 bg-black text-white" onClick={() => setShowAuth(true)}>
+        Open
+        </button>
+      {showAuth && <Auth onClose={() => setShowAuth(false)} />}
     </div>
-  )
+  );
 }
 
-export default Home
+export default Home;
