@@ -106,44 +106,6 @@ Documentation website
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork this repository
-2. Create a new branch
-
-```bash
-git checkout -b feature/your-feature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new component"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature/your-feature
-```
-
-5. Open a Pull Request
-
----
-
-# 🐛 Issues
-
-Found a bug?
-
-Please open an Issue with:
-
-- Expected behavior
-- Actual behavior
-- Steps to reproduce
-
----
 
 # 📈 Roadmap
 
